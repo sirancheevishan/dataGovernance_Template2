@@ -1,0 +1,50 @@
+[{
+    "ID":"01",
+    "Name": "Website Optimization",
+    "Content": "Lorem ipsum dolor sit amet, mel vis autem habemus recteque no. Ut per tota erant.",
+    "icon": "las la-rocket",
+    "Class": ""
+
+    
+},
+{
+    "ID":"02",
+    "Name": "Keyword Targeting",
+    "Content": "Lorem ipsum dolor sit amet, mel vis autem habemus recteque no. Ut per tota erant.",
+    "icon": "las la-bullseye",
+    "Class": ""
+    
+},
+{
+    "ID":"03",
+    "Name": "Web Analytics",
+    "Content": "Lorem ipsum dolor sit amet, mel vis autem habemus recteque no. Ut per tota erant.",
+    "icon": "lar la-chart-bar",
+    "Class": ""
+    
+},
+{
+    "ID":"04",
+    "Name": "Content Strategy",
+    "Content": "Lorem ipsum dolor sit amet, mel vis autem habemus recteque no. Ut per tota erant.",
+    "icon": "las la-pencil-ruler",
+    "Class": "bg-c679e3"
+    
+},
+{
+    "ID":"05",
+    "Name": "Email Marketing",
+    "Content": "Lorem ipsum dolor sit amet, mel vis autem habemus recteque no. Ut per tota erant.",
+    "icon": "lab la-telegram-plane",
+    "Class": "bg-c679e3"
+    
+},
+{
+    "ID":"06",
+    "Name": "Sales Promotion",
+    "Content": "Lorem ipsum dolor sit amet, mel vis autem habemus recteque no. Ut per tota erant.",
+    "icon": "las la-user-tie",
+    "Class": "bg-c679e3"
+    
+}
+]

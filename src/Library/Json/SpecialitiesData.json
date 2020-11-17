@@ -1,0 +1,65 @@
+[{
+    "ID":"01",
+    "Name": "High Resolution",
+    "Content": "Lorem ipsum madolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.",
+    "icon": "las la-desktop",
+    "Class": ""
+    
+},
+{
+    "ID":"02",
+    "Name": "Color Schemes",
+    "Content": "Lorem ipsum madolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.",
+    "icon": "las la-pen",
+    "Class": ""
+    
+},
+{
+    "ID":"03",
+    "Name": "Google Fonts",
+    "Content": "Lorem ipsum madolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.",
+    "icon": "lab la-google-plus",
+    "Class": "bg-c679e3"
+    
+},
+{
+    "ID":"04",
+    "Name": "Clean Codes",
+    "Content": "Lorem ipsum madolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.",
+    "icon": "las la-heartbeat",
+    "Class": "bg-c679e3"
+    
+},
+{
+    "ID":"05",
+    "Name": "Responsive Design",
+    "Content": "Lorem ipsum madolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.",
+    "icon": "las la-check-circle",
+    "Class": ""
+    
+},
+{
+    "ID":"06",
+    "Name": "Easy to Use",
+    "Content": "Lorem ipsum madolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.",
+    "icon": "las la-thumbs-up",
+    "Class": ""
+    
+},
+{
+    "ID":"07",
+    "Name": "Perfect Showcase",
+    "Content": "Lorem ipsum madolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.",
+    "icon": "las la-tv",
+    "Class": "bg-c679e3"
+    
+},
+{
+    "ID":"08",
+    "Name": "Animation",
+    "Content": "Lorem ipsum madolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.",
+    "icon": "las la-share-alt",
+    "Class": "bg-c679e3"
+    
+}
+]
