@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/dataGovernance_Template2/static/css/main.838c0987.chunk.css",
-    "main.js": "/dataGovernance_Template2/static/js/main.54cdaa3d.chunk.js",
-    "main.js.map": "/dataGovernance_Template2/static/js/main.54cdaa3d.chunk.js.map",
+    "main.css": "/dataGovernance_Template2/static/css/main.0ebac7ee.chunk.css",
+    "main.js": "/dataGovernance_Template2/static/js/main.68f626c9.chunk.js",
+    "main.js.map": "/dataGovernance_Template2/static/js/main.68f626c9.chunk.js.map",
     "runtime-main.js": "/dataGovernance_Template2/static/js/runtime-main.8d0ff8bb.js",
     "runtime-main.js.map": "/dataGovernance_Template2/static/js/runtime-main.8d0ff8bb.js.map",
     "static/js/2.14979748.chunk.js": "/dataGovernance_Template2/static/js/2.14979748.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.eadc05d8.chunk.js": "/dataGovernance_Template2/static/js/3.eadc05d8.chunk.js",
     "static/js/3.eadc05d8.chunk.js.map": "/dataGovernance_Template2/static/js/3.eadc05d8.chunk.js.map",
     "index.html": "/dataGovernance_Template2/index.html",
-    "static/css/main.838c0987.chunk.css.map": "/dataGovernance_Template2/static/css/main.838c0987.chunk.css.map",
+    "static/css/main.0ebac7ee.chunk.css.map": "/dataGovernance_Template2/static/css/main.0ebac7ee.chunk.css.map",
     "static/js/2.14979748.chunk.js.LICENSE.txt": "/dataGovernance_Template2/static/js/2.14979748.chunk.js.LICENSE.txt",
     "static/media/Home.fd9a2bc3.png": "/dataGovernance_Template2/static/media/Home.fd9a2bc3.png",
     "static/media/line-awesome.css": "/dataGovernance_Template2/static/media/la-solid-900.89363487.woff",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.8d0ff8bb.js",
     "static/js/2.14979748.chunk.js",
-    "static/css/main.838c0987.chunk.css",
-    "static/js/main.54cdaa3d.chunk.js"
+    "static/css/main.0ebac7ee.chunk.css",
+    "static/js/main.68f626c9.chunk.js"
   ]
 }
