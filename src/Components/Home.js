@@ -4,7 +4,7 @@ import HomeImg from "../Library/Images/Home.png";
 export default class Home extends Component {
   render() {
     return (
-      <section className="container mt-5 mb-5" id="Home">
+      <section className="container m-t7 mb-5" id="Home">
         <div className="row h-100 justify-content-center align-items-center">
           <div className="col-md-5">
             <div class="hero-content pd-t-17">

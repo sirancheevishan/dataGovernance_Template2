@@ -10,7 +10,7 @@ export default class Services extends Component {
   }
   render() {
     return (
-      <section id="Services" class="container mb-5">
+      <section id="Services" class="m-t7 container mb-5">
         <div>
           <div class="section-title text-center">
             <h2> Our Services</h2>

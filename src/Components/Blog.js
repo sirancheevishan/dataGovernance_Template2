@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Blog() {
   return (
-    <section id="Blog" class="mb-5">
+    <section id="Blog" class="m-t7 mb-5">
       <div className="container">
         <div class="section-title text-center">
           <h2> From the Blog</h2>

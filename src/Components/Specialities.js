@@ -10,7 +10,7 @@ export default class Specialities extends Component {
   }
   render() {
     return (
-      <section id="Specialities" class="container mb-5">
+      <section id="Specialities" class="container m-t7 mb-5">
         <div>
           <div class="section-title text-center">
             <h2> Our Specialities</h2>

@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Contact() {
   return (
-    <section id="Contact" class="mb-5">
+    <section id="Contact" class="m-t7 mb-5">
       <div>
         <div class="section-title text-center">
           <h2>Get In Touch With Us</h2>
