@@ -19,7 +19,7 @@ export default class Home extends Component {
           </div>
           <div className="col-md-6 offset-lg-1">
             <div className="banner-image">
-              <img src={HomeImg} />
+              <img className="w-100" src={HomeImg} />
             </div>
           </div>
         </div>

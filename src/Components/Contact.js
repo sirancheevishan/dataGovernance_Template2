@@ -3,15 +3,16 @@ import React from "react";
 export default function Contact() {
   return (
     <section id="Contact" class="m-t7 mb-5">
-      <div>
+      <div class="container">
         <div class="section-title text-center">
           <h2>Get In Touch With Us</h2>
           <div class="bar"></div>
           <p>Anything On your Mind. We’ll Be Glad To Assist You!</p>
         </div>
         <div className="row">
-          <div className="col-xd-6">
+          <div className="col-md-6">
             <img
+              className="w-100"
               src="https://www.pasona-vue.envytheme.com/img/1.74160cc2.png"
               alt="image"
             />

@@ -13,7 +13,7 @@ export default function Blog() {
           </p>
         </div>
         <div className="row">
-          <div className="col-md-4">
+          <div className="col-md-4 mt-3">
             <div className=" cardspcl">
               <div className="">
                 <div class="blog-image">
@@ -48,7 +48,7 @@ export default function Blog() {
             </div>
           </div>
 
-          <div className="col-md-4">
+          <div className="col-md-4 mt-3">
             <div className=" cardspcl">
               <div className="">
                 <div class="blog-image">
@@ -83,7 +83,7 @@ export default function Blog() {
             </div>
           </div>
 
-          <div className="col-md-4">
+          <div className="col-md-4 mt-3">
             <div className=" cardspcl">
               <div className="">
                 <div class="blog-image">
